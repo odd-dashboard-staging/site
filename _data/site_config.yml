@@ -76,18 +76,16 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Liens Utiles
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      
     include: ''
     button_label: Read more
     button_link: 'https://odd-dashboard.cd'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: A propos de La République Démocratique du Congo
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      
     include: ''
     button_label: Read more
     button_link: 'https://odd-dashboard.cd'
