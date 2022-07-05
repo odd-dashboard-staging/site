@@ -1,1 +1,19 @@
 // Enter any custom Sass in this file.
+
+
+$disclaimer-tag-backgroundColor: #fcd600 !default;
+$disclaimer-tag-color: $color-light !default;
+$disclaimer-text-color: $text-color !default;
+
+
+$button-color: #027dff !default;
+$button-color-pressed: #027dff !default;
+$button-color-hover: $button-color-pressed !default;
+$button-foregroundColor: white !default;
+$button-foregroundColor-visited: white !default;
+$button-foregroundColor-focus: $text-color;
+$button-color-dropShadow: #002d18 !default;
+$button-color-focus: #fcd600 !default;
+$button-color-highContrast: #eeeeee !default;
+$button-color-hover-highContrast: #DBDAD9 !default;
+$button-foregroundColor-highContrast: $color-dark-highContrast !default;

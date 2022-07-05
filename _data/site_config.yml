@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: La République Démocratique du Congo
+  adjective: Congolais
 create_goals:
   previous_next_links: false
   goals: []
@@ -55,9 +55,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: support@odd-dashboard.cd
+  suggestions: support@odd-dashboard.cd
+  functional: support@odd-dashboard.cd
 environment: staging
 footer_language_toggle: none
 footer_menu:
@@ -76,21 +76,19 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Liens Utiles
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://odd-dashboard.cd'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: A propos de La République Démocratique du Congo
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://odd-dashboard.cd'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
