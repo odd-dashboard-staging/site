@@ -23,7 +23,7 @@ cookie_consent_form:
   enabled: false
 country:
   name: La République Démocratique du Congo
-  adjective: Congolais
+  adjective: Congolese
 create_goals:
   previous_next_links: false
   goals: []
@@ -79,17 +79,18 @@ frontpage_cards:
   - title: Liens Utiles
     content: |
       
-    include: ''
-    button_label: Read more
-    button_link: 'https://odd-dashboard.cd'
-    rule_color: ''
-  - title: A propos de La République Démocratique du Congo
-    content: |
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://odd-dashboard.cd'
+  #   rule_color: ''
+  # - title: A propos de La République Démocratique du Congo
+  #   content: |
       
-    include: ''
-    button_label: Read more
-    button_link: 'https://odd-dashboard.cd'
-    rule_color: ''
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://odd-dashboard.cd'
+  #   rule_color: ''
+
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_short
@@ -108,6 +109,7 @@ graph_color_list: []
 graph_color_number: 0
 graph_title_from_series: false
 header_language_toggle: dropdown
+hide_empty_metadata: true
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
