@@ -14,3 +14,7 @@ deploy_key*.pub
 .history
 .gitignore
 .gitignore
+_data/site_config.yml
+_data/site_config.yml
+.vscode/settings.json
+.gitignore
