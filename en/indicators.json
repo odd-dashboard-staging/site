@@ -14,22 +14,6 @@
           "status": "complete"
         },
         {
-          "id": "1-1-1-a",
-          "title": "global_indicators.1-1-1-a-title",
-          "description": "",
-          "keywords": "",
-          "href": "/site/en/1-1-1-a",
-          "status": "complete"
-        },
-        {
-          "id": "1-1-1-b",
-          "title": "global_indicators.1-1-1-b-title",
-          "description": "",
-          "keywords": "",
-          "href": "/site/en/1-1-1-b",
-          "status": "complete"
-        },
-        {
           "id": "1-2-1",
           "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
@@ -1652,14 +1636,6 @@
           "keywords": "",
           "href": "/site/en/15-3-1",
           "status": "notstarted"
-        },
-        {
-          "id": "15-3-1-a",
-          "title": "global_indicators.15-3-1-a-title",
-          "description": "",
-          "keywords": "",
-          "href": "/site/en/15-3-1-a",
-          "status": "complete"
         },
         {
           "id": "15-4-1",
