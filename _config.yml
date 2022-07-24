@@ -37,3 +37,26 @@ exclude:
   - README.md
   - LICENSE
 
+create_goals:
+  layout: goal-by-target
+  previous_next_links: false
+  goals: []
+create_indicators:
+  previous_next_links: false
+create_pages:
+  - filename: ''
+    folder: /
+    layout: goals
+    title: ''
+  - filename: ''
+    folder: /goals
+    layout: goals
+    title: general.goals
+  - filename: ''
+    folder: /reporting-status
+    layout: reportingstatus
+    title: status.reporting_status
+  - filename: ''
+    folder: /search
+    layout: search
+    title: search.search
