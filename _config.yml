@@ -60,3 +60,4 @@ create_pages:
     folder: /search
     layout: search
     title: search.search
+
