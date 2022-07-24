@@ -25,6 +25,7 @@ country:
   name: La République Démocratique du Congo
   adjective: Congolese
 create_goals:
+  layout: goal-by-target
   previous_next_links: false
   goals: []
 create_indicators:
@@ -33,7 +34,7 @@ create_pages:
   - filename: ''
     folder: /
     layout: goals
-    title: general.home
+    title: ''
   - filename: ''
     folder: /goals
     layout: goals
