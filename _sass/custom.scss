@@ -82,4 +82,8 @@ $button-foregroundColor-highContrast: $color-dark-highContrast !default;
         font-size: 22px;
         width: 95%;
     }
+
+    .frontpage-goals-grid .goal-tiles .goal-tile {
+        width: 16.5% !important;
+    }
 }
