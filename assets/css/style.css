@@ -2535,7 +2535,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   .site-intro {
     padding-right: 300px;
     min-height: 180px;
-    background: url(/site/assets/img/drc_odd_image.png);
+    background: url(/assets/img/drc_odd_image.png);
     background-position: right 60px top;
     background-size: 280px;
     background-repeat: no-repeat; }
