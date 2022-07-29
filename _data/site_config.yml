@@ -23,13 +23,18 @@ cookie_consent_form:
   enabled: false
 country:
   name: La République Démocratique du Congo
-  adjective: Congolais
+  adjective: Congolese
 create_goals:
+  layout: goal-by-target
   previous_next_links: false
   goals: []
 create_indicators:
   previous_next_links: false
 create_pages:
+  - filename: ''
+    folder: /
+    layout: goals
+    title: ''
   - filename: ''
     folder: /goals
     layout: goals
@@ -51,8 +56,8 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: ''
-  message: ''
+  phase: 'ALPHA'
+  message: 'Dashboard en developpement par l''<a href="https://espkinshasa.net/" target="_blank">Ecole de Santé Publique de l''Université Kinshasa</a> avec la collaboration de l''<a href="https://ocdd.cd/" target="_blank">OCDD</a> et l''appui du projet <a href="https://cesh.health/capacity-development-project-for-sustainable-development-in-fragile-states/" target="_blank">SDGCap</a> de <a href="https://ki.se/en" target="_blank">Karonliska Institutet-Suède</a>. Nous apprécions vos <a mailto="support@odd-dashboard.cd" target="_blank">commentaires</a>.'
   hidden: false
 email_contacts:
   questions: support@odd-dashboard.cd
@@ -79,17 +84,18 @@ frontpage_cards:
   - title: Liens Utiles
     content: |
       
-    include: ''
-    button_label: Read more
-    button_link: 'https://odd-dashboard.cd'
-    rule_color: ''
-  - title: A propos de La République Démocratique du Congo
-    content: |
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://odd-dashboard.cd'
+  #   rule_color: ''
+  # - title: A propos de La République Démocratique du Congo
+  #   content: |
       
-    include: ''
-    button_label: Read more
-    button_link: 'https://odd-dashboard.cd'
-    rule_color: ''
+  #   include: ''
+  #   button_label: Read more
+  #   button_link: 'https://odd-dashboard.cd'
+  #   rule_color: ''
+
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_short
@@ -108,6 +114,7 @@ graph_color_list: []
 graph_color_number: 0
 graph_title_from_series: false
 header_language_toggle: dropdown
+hide_empty_metadata: true
 hide_empty_metadata: true
 hide_single_series: true
 hide_single_unit: true
