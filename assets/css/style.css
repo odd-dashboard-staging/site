@@ -2566,4 +2566,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
 
   .lead-copy {
     font-size: 22px;
-    width: 95%; } }
+    width: 95%; }
+
+  .frontpage-goals-grid .goal-tiles .goal-tile {
+    width: 16.5% !important; } }
