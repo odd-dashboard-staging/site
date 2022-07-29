@@ -2530,3 +2530,12 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   color: white;
   text-transform: uppercase;
   padding: 2px 5px; }
+
+@media only screen and (min-width: 700px) {
+  .site-intro {
+    padding-right: 300px;
+    min-height: 180px;
+    background: url(/assets/img/drc_odd_image.png);
+    background-position: right 60px top;
+    background-size: 180px;
+    background-repeat: no-repeat; } }
