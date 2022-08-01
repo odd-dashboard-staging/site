@@ -2535,7 +2535,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   .site-intro {
     padding-right: 300px;
     min-height: 180px;
-    background: url(/assets/img/drc_odd_image.png);
+    background: url("/");
     background-position: right 60px top;
     background-size: 280px;
     background-repeat: no-repeat; }
@@ -2551,7 +2551,7 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
     margin: 40px 0 20px 0;
     border-top: 0px solid #ccc; }
 
-  #main-content {
+  .layout-frontpage #main-content {
     padding-top: 0px;
     padding-bottom: 15px;
     /* padding-right: 300px; */
