@@ -45,7 +45,7 @@ $button-foregroundColor-highContrast: $color-dark-highContrast !default;
     .site-intro {
         padding-right: 300px;
         min-height: 180px;
-        background: url(/assets/img/drc_odd_image.png);
+        background: url('/');
         background-position: right 60px top;
         background-size: 280px;
         background-repeat: no-repeat;
@@ -64,7 +64,7 @@ $button-foregroundColor-highContrast: $color-dark-highContrast !default;
         border-top: 0px solid #ccc;
     }
 
-    #main-content {
+    .layout-frontpage #main-content {
         padding-top: 0px;
         padding-bottom: 15px;
         /* padding-right: 300px; */
